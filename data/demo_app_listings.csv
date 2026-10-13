@@ -1,0 +1,6 @@
+app_name,package_id,developer_name,store_name,store_url,description,permissions
+"NovaPay: Mobile Banking & Pay",com.novapay.app,NovaPay Technologies Ltd,Google Play,https://play.google.com/store/apps/details?id=com.novapay.app,"Official banking and digital wallet app for NovaPay users.",INTERNET
+NovaPay Quick Loan - Instant Cash,com.novapay.loan.fast,Apex Microfinance LLC,Google Play,https://play.google.com/store/apps/details?id=com.novapay.loan.fast,"Instant loan approval! Claim cashback reward. Requires contacts and SMS read permissions.","READ_CONTACTS, READ_SMS"
+NovaPay Wallet Pro - Unlimited Transfer,com.novapay.app,ShadowNet Mobile Devs,Third-Party APK Mirror,https://apk-free-download-mirror.xyz/novapay-mod.apk,"Modded NovaPay app with unlimited limits. Share OTP to unlock rewards.","SYSTEM_ALERT_WINDOW, READ_EXTERNAL_STORAGE"
+Guide for NovaPay Transfers,com.techguide.novapaytips,Fintech Tutorials Inc,Google Play,https://play.google.com/store/apps/details?id=com.techguide.novapaytips,"Unofficial user manual and walkthrough for configuring NovaPay debit cards.",INTERNET
+SuperNova Galaxy Armada 3D,com.stellargames.supernova.armada,Stellar Arcade Studios,Google Play,https://play.google.com/store/apps/details?id=com.stellargames.supernova.armada,"Command your starship fleet across alien sectors in this interstellar action game.",WAKE_LOCK
