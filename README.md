@@ -198,3 +198,5 @@ The application stores all data in SQLite (`brandshield.db`). All registered bra
 
 ## 🏆 Hackathon Presentation Reference
 See **`walkthrough.md`** for the **3-Minute Word-for-Word Judge Presentation Script**.
+#   b r a n d - t h r e a t - s c a n n e r  
+ 
